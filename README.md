@@ -1,0 +1,1 @@
+# DataStructure -> This repository is for different solution to the basic data structure questions from leetcode and basic understanding for data structure and algorithms along with their implementations
